@@ -5,6 +5,6 @@
 <title>chat</title>
 </head>
 <body>
-	Loggin
+	Loggin a
 </body>
 </html>
