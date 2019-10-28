@@ -9,6 +9,6 @@ Instruções:
 - Configurar string de conexão do banco de dados (src/main/java/resources/META-INF/persistence.xml)
 
 Páginas:
-"chat/" (Página inicial de Login)
-"chat/chat" (Página do chat)
-"chat/api" (Página da api para retornar dados do Banco)
+- "chat/" (Página inicial de Login)
+- "chat/chat" (Página do chat)
+- "chat/api" (Página da api para retornar dados do Banco)
